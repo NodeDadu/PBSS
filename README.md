@@ -1,9 +1,12 @@
 # PBSS
 ![Banner](Documentation/Images/Banner.jpg)
-Physically Based Stylized Shading shader for Blender 5.1+ in its early days
+Physically based stylized shader for Blender 5.1+. In its very early days.
 
 # Compatibility
-Blender 5.1+ Only. Eevee is fully suported and Recommwnsws. Cycles support is limited.
+Blender 5.1+ Only. Eevee is fully suported and recommended. Cycles support is limited.
 
 # Features
-- Robust Outline and Rimlight rendering using Raycasting method (inspired by Miguel Pozo)
+- Robust outline and Rimlight rendering using Raycasting method (inspired by Miguel Pozo)
+![outline](Documentation/Images/Outline.jpg)
+- Unbound Quantized lighting via quantizing exposure bands, allows more perceptually linear bands of light, as well as letting effects like bloom and usage of tonemappers more viable
+![bloom](Documentation/Images/Bloom.jpg)

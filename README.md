@@ -3,7 +3,7 @@
 Physically based stylized shader for Blender 5.1+. In its very early days. There is some truth behind it, but the name doesnt particularly makes sense, but it sounds good and at the end of the day thats good marketing.
 
 # Compatibility
-Blender 5.1+ Only. Eevee is fully suported and recommended. Cycles support is limited.
+Blender 5.1+ Only. Eevee is fully suported and recommended. Cycles support is limited. Not required but [Pixel Manager](https://github.com/Joegenco/PixelManager) OCIO config is highly recommended.
 
 # Features
 - Uses blender shaders and lighting, meaning no need to use a custom light rig, or workaround shading, light as you would traditionally. PBSS is also (can be) energy conserving which means appending it on a existing scene should cause nothing to change energy wise, making it easy to retroactivly switch a existing scene to PBSS without needing lighting tweaks.

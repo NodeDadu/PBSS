@@ -1,6 +1,6 @@
 # PBSS
 ![Banner](Documentation/Images/Banner.jpg)
-Physically based stylized shader for Blender 5.1+. In its very early days.
+Physically based stylized shader for Blender 5.1+. In its very early days. There is some truth behind it, but the name doesnt particularly makes sense, but it sounds good and at the end of the day thats good marketing.
 
 # Compatibility
 Blender 5.1+ Only. Eevee is fully suported and recommended. Cycles support is limited.

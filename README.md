@@ -10,7 +10,7 @@ Blender 5.1+ Only. Eevee is fully suported and recommended. Cycles support is li
 ![viewport](Documentation/Images/Viewport.png)
 - Robust outline and Rimlight rendering using Raycasting method (inspired by Miguel Pozo)
 ![outline](Documentation/Images/Outline.jpg)
-- Unbound Quantized lighting via quantizing exposure bands, allows more perceptually linear bands of light, as well as letting effects like bloom and usage of tonemappers more viable
+- Unbound Quantized lighting via quantizing exposure bands, allows more perceptually linear bands of light, as well as letting effects like bloom and usage of color management more viable
 ![bloom](Documentation/Images/Bloom.jpg)
 - Manually enable or disable every rendering feature, or bypass certain ones for full creative control
 - Much more!
